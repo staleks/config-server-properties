@@ -6,7 +6,7 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:8761/eureka
 
-filter.country: 3
+filter.country: 0
 
 ---
 spring:
